@@ -15,4 +15,4 @@ Passionate about defensive programming and tooling, personal data protection, se
 📫 Contact me on Matrix: [ph00lt0@nltrix.net](https://matrix.to/#/ph00lt0@nltrix.net) 
 
 
-Feel free to have a look at my [public repostories](https://github.com/ph00lt0?tab=repositories)
+Feel free to have a look at my public [repostories](https://github.com/ph00lt0?tab=repositories) and [gists](https://gist.github.com/ph00lt0)
