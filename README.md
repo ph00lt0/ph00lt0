@@ -2,7 +2,7 @@
 
 🎓 MSc student at the Royal Holloway Information Security Group
 
-📑 Currently researching influence of privacy regulation on information security at @rhul-isg
+📑 Currently researching influence of privacy regulation on information security at the Royal Holloway Information Security Group
 
 🛑 Maintaining a [blocklist](https://github.com/ph00lt0/blocklist) to stop ads, trackers, etc
 
