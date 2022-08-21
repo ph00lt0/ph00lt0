@@ -1,16 +1,18 @@
-### Hi there 👋
+### 0️⃣ ph00lt0
 
-<!--
-**ph00lt0/ph00lt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc student at the Royal Holloway Information Security Group
 
-Here are some ideas to get you started:
+📑 Currently researching influence of privacy regulation on information security at @rhul-isg
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛑 Maintaining a [blocklist](https://github.com/ph00lt0/blocklist) to stop ads, trackers, etc
+
+🛡 Usually quite active in the @PrivacyGuides discussions
+
+
+Passionate about defensive programming and tooling, personal data protection, security management strategy, attack surface reduction, implementations of cryptography, and, - but not limited to - counter forensics, and hardening.
+
+---
+📫 Contact me on Matrix: [ph00lt0@nltrix.net](https://matrix.to/#/ph00lt0@nltrix.net) 
+
+
+Feel free to have a look at my [public repostories](https://github.com/ph00lt0?tab=repositories)
