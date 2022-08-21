@@ -6,7 +6,7 @@
 
 🛑 Maintaining a [blocklist](https://github.com/ph00lt0/blocklist) to stop ads, trackers, etc
 
-🛡 Usually quite active in the @PrivacyGuides discussions
+🛡 Usually quite active in the [PrivacyGuides](https://github.com/PrivacyGuides) discussions
 
 
 Passionate about defensive programming and tooling, personal data protection, security management strategy, attack surface reduction, implementations of cryptography, and, - but not limited to - counter forensics, and hardening.
