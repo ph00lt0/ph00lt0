@@ -2,7 +2,7 @@
 
 🎓 MSc in Information Security
 
-💼 Security Officer at a financial service company.
+💼 Security Officer at a financial service company
 
 🛑 Maintaining a [blocklist](https://ph00lt0.github.io/blocklist ) to stop ads, trackers, etc
 
