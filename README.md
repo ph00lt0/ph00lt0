@@ -1,8 +1,8 @@
 ### 0️⃣ ph00lt0
 
-🎓 MSc student at the Royal Holloway Information Security Group
+🎓 MSc in Information Security
 
-📑 Currently researching influence of privacy regulation on information security
+💼 Security Officer at a financial service company.
 
 🛑 Maintaining a [blocklist](https://ph00lt0.github.io/blocklist ) to stop ads, trackers, etc
 
