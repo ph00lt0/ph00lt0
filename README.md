@@ -13,7 +13,7 @@ Passionate about defensive programming and tooling, personal data protection, se
 
 ---
 ## 📫 Contact me
-Matrix: [ph00lt0@matrix.org](https://matrix.to/#/ph00lt0@matrix.org) 
+Matrix: [@ph00lt0:matrix.org](https://matrix.to/#/@ph00lt0:matrix.org) 
 
 Mastodon: [mastodon.social/@ph00lt0](https://mastodon.social/@ph00lt0)
 
